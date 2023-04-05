@@ -1,1 +1,14 @@
-
+public class D4 {
+  
+        public static void main(String[] arge) {
+        
+          String my_name = "Wedyan";
+          for (int i = 0; i < my_name.length() ; i++) {
+             System.out.println(my_name.charAt(i));
+             
+        }
+         
+      }
+   }
+      
+     
