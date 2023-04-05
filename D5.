@@ -1,1 +1,12 @@
-
+public class D5 {
+      public static void main(String[] args) {
+      
+        String myname2 = "Wedyan";
+        for (int r = myname2.length()-1; r >= 0; r--) {
+            System.out.println(myname2.charAt(r));
+            
+          }
+        
+        }
+      }
+        
