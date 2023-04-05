@@ -1,1 +1,13 @@
-
+ public class D3 {
+        
+         publi static void main(String[] args) { 
+           int num = 0;
+          for (int i = 0; i < 10; i++) {
+               if (i == 4) {
+                   break;
+            }
+                System,out.println(i);
+          
+         }
+       }
+     }
